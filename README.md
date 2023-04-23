@@ -10,12 +10,13 @@
 <!-- - 👨‍💻 All of my projects are available at [website](www.enoch.com) -->
 
 - 📝 I regularly write articles on
- <p>[![Blog](https://img.shields.io/badge/Blog_Post-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://https://epex.news.blog)</p>
+ <p>[![Blog](https://img.shields.io/badge/Blog_Post-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://epex.news.blog)</p>
 
 - 📫 How to reach me **epekipoluenoch@gmail.com**
 
 - 📄 Know about my experiences
-  <p>[![Resume](https://img.shields.io/badge/My_resume-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://docs.google.com/document/d/1e2nW_d-I7SS9OCzBLyrfc07whEqvCJiIuf2zsRue9H8/edit?usp=sharing/)</p>
+  <p>[My Resume](https://docs.google.com/document/d/1e2nW_d-I7SS9OCzBLyrfc07whEqvCJiIuf2zsRue9H8/edit?usp=sharing/)
+https://docs.google.com/document/d/1e2nW_d-I7SS9OCzBLyrfc07whEqvCJiIuf2zsRue9H8/edit?usp=sharing/)</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
