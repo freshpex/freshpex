@@ -15,8 +15,7 @@
 - 📫 How to reach me **epekipoluenoch@gmail.com**
 
 - 📄 Know about my experiences
-  <p>[My Resume](https://docs.google.com/document/d/1e2nW_d-I7SS9OCzBLyrfc07whEqvCJiIuf2zsRue9H8/edit?usp=sharing/)
-https://docs.google.com/document/d/1e2nW_d-I7SS9OCzBLyrfc07whEqvCJiIuf2zsRue9H8/edit?usp=sharing/)</p>
+  <p>[![My Resume](https://img.shields.io/badge/My%20Resume-Link%20Here-blue)](https://docs.google.com/document/d/1e2nW_d-I7SS9OCzBLyrfc07whEqvCJiIuf2zsRue9H8/edit?usp=sharing)</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
