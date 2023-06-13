@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Data structures and algorithms.**
  
  - Contributing on:
- <a href="[![Eudaimonia]](https://github.com/iamfaqeehhokyky/Eudaimonia)">Eudaimonia </a>
+ <a> href="[Eudaimonia](https://github.com/iamfaqeehhokyky/Eudaimonia)"</a>
 
 <!-- - 👨‍💻 All of my projects are available at [website](www.enoch.com) -->
 
