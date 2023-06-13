@@ -1,3 +1,7 @@
+<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+
+
+
 <h1 align="center">Hi 👋, I'm Epekipolu Enoch</h1>
 <h3 align="center">As a highly motivated computer science student, I am eager to apply my technical skills and knowledge to a real-world setting. I am currently studying Computer</h3>
 
