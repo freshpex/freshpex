@@ -10,6 +10,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freshpex" alt="freshpex" /></a> </p>
 
 - 🌱 I’m currently learning **Data structures and algorithms.**
+ 
+ - Contributing on: <a href="[Eudaimonia](https://github.com/iamfaqeehhokyky/Eudaimonia)">
+  </a>
 
 <!-- - 👨‍💻 All of my projects are available at [website](www.enoch.com) -->
 
