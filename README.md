@@ -22,7 +22,7 @@ I’m passionate about building modern web applications and sharing knowledge. I
 <!-- - 👨‍💻 All of my projects are available at [website](www.enoch.com) -->
 
 - 📝 I regularly write articles on
- [![Blog](https://img.shields.io/badge/Blog_Post-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([[https://epex.news.blog](https://www.buymeacoffee.com/freshpex)](https://www.buymeacoffee.com/freshpex))
+ [![Blog](https://img.shields.io/badge/Blog_Post-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.buymeacoffee.com/freshpex)
 
 - 📫 How to reach me **epekipoluenoch@gmail.com**
 
