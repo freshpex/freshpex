@@ -2,9 +2,6 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Epekipolu Enoch</h1>
-<h3 align="center">As a highly motivated computer science student, I am eager to apply my technical skills and knowledge to a real-world setting. I am currently studying Computer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freshpex&label=Profile%20views&color=0e75b6&style=flat" alt="freshpex" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freshpex" alt="freshpex" /></a> </p>
@@ -15,7 +12,7 @@
  [![github](https://img.shields.io/badge/-Contributions-blue)](https://github.com/)
  
  
-<!-- - 👨‍💻 All of my projects are available at [website](www.enoch.com) -->
+<!-- - 👨‍💻 All of my projects are available at [website](freshpex.github.io/portfolio) -->
 
 - 📝 I regularly write articles on
  [![Blog](https://img.shields.io/badge/Blog_Post-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://epex.news.blog)
