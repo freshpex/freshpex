@@ -1,19 +1,6 @@
-name: Link Counter
-on:
-  push:
-    paths:
-      - README.md
-  workflow_dispatch:
-jobs:
-  counter:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - name: Count clicks
-        uses: ennVeen/gh-linkcounter@v1
-        with:
-          file: README.md
-          # marker in your README where the badge lives:
-          start: "<!-- LINKCOUNTER-START -->"
-          end:   "<!-- LINKCOUNTER-END -->"
-          
+<!-- LINKCOUNTER-START -->
+[![☕️ Clicks][badge]][go]
+<!-- LINKCOUNTER-END -->
+
+[badge]: https://img.shields.io/badge/dynamic/json?color=blue&label=Coffee%20Clicks&query=message&url=https://links.freshpex.dev/count
+[go]:    https://links.freshpex.dev/go
