@@ -1,0 +1,19 @@
+name: Link Counter
+on:
+  push:
+    paths:
+      - README.md
+  workflow_dispatch:
+jobs:
+  counter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Count clicks
+        uses: ennVeen/gh-linkcounter@v1
+        with:
+          file: README.md
+          # marker in your README where the badge lives:
+          start: "<!-- LINKCOUNTER-START -->"
+          end:   "<!-- LINKCOUNTER-END -->"
+          
