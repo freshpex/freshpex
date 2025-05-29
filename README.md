@@ -49,7 +49,7 @@ I regularly publish web development articles on **Buy Me A Coffee**. Check out [
 ## ☕ Support Me
 If you enjoy my work, consider buying me a coffee by clicking 👉
 <!-- LINKCOUNTER-START -->
-[![☕️ Clicks][badge]][go]
+[![Buy me a ☕️ Click counts][badge]][go]
 <!-- LINKCOUNTER-END -->
 
 [badge]: https://img.shields.io/badge/dynamic/json?color=blue&label=Coffee%20Clicks&query=message&url=https://buymeacoffeefreshpex.vercel.app/api/count
