@@ -47,7 +47,11 @@ I’m passionate about building modern web applications and sharing knowledge. I
 I regularly publish web development articles on **Buy Me A Coffee**. Check out [all my articles here](https://www.buymeacoffee.com/freshpex) for tutorials, tips, and deep-dives into web tech!
 
 ## ☕ Support Me
-If you enjoy my work, consider [buying me a coffee](https://www.buymeacoffee.com/freshpex) ☕. Your support helps me write more tutorials and build better projects. Thank you!
+If you enjoy my work, consider 
+<!-- LINKCOUNTER-START -->
+[![☕️ Buying Me a Coffee clicks](https://raw.githubusercontent.com/freshpex/freshpex/main/linkcounter.svg)](https://www.buymeacoffee.com/freshpex)
+<!-- LINKCOUNTER-END -->
+ ☕. Your support helps me write more tutorials and build better projects. Thank you!
 
 ---
 
