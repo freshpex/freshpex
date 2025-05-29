@@ -49,8 +49,12 @@ I regularly publish web development articles on **Buy Me A Coffee**. Check out [
 ## ☕ Support Me
 If you enjoy my work, consider 
 <!-- LINKCOUNTER-START -->
-[![☕️ Buying Me a Coffee clicks](https://raw.githubusercontent.com/freshpex/freshpex/main/linkcounter.svg)](https://www.buymeacoffee.com/freshpex)
+[![☕️ Clicks][badge]][go]
 <!-- LINKCOUNTER-END -->
+
+[badge]: https://img.shields.io/badge/dynamic/json?color=blue&label=Coffee%20Clicks&query=message&url=https://buymeacoffeefreshpex.vercel.app/api/count
+[go]: https://buymeacoffeefreshpex.vercel.app/api/go
+
  ☕. Your support helps me write more tutorials and build better projects. Thank you!
 
 ---
