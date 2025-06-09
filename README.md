@@ -6,7 +6,7 @@
 
 **Frontend Developer & Content Writer**
 
-I’m passionate about building modern web applications and sharing knowledge. I specialize in technologies like **HTML**, **CSS**, **JavaScript** (React, Next.js) and **Node.js/Express**. In my free time I write tutorials and articles on **Buy Me A Coffee**, where I share tips and insights. Check out [all my articles here](https://www.buymeacoffee.com/freshpex) to learn more!
+I’m passionate about building modern web applications and sharing knowledge. I specialize in technologies like **HTML**, **CSS**, **JavaScript** (React, Next.js) and **Node.js/Express**. In my free time I write tutorials and articles on **Buy Me A Coffee**, where I share tips and insights. Check out [all my articles here](https://www.freshpex.xyz) to learn more!
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freshpex&label=Profile%20views&color=0e75b6&style=flat" alt="freshpex" /> </p>
@@ -19,10 +19,10 @@ I’m passionate about building modern web applications and sharing knowledge. I
  [![github](https://img.shields.io/badge/-Contributions-blue)](https://github.com/)
  
  
-<!-- - 👨‍💻 All of my projects are available at [website](www.enoch.com) -->
+<!-- - 👨‍💻 All of my projects are available at [website](https://freshpex.com) -->
 
 - 📝 I regularly write articles on
- [![Blog](https://img.shields.io/badge/Blog_Post-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.buymeacoffee.com/freshpex)
+ [![Blog](https://img.shields.io/badge/Blog_Post-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://www.freshpex.xyz])
 
 - 📫 How to reach me **epekipoluenoch@gmail.com**
 
@@ -44,7 +44,7 @@ I’m passionate about building modern web applications and sharing knowledge. I
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ## ✍️ Writing & Articles
-I regularly publish web development articles on **Buy Me A Coffee**. Check out [all my articles here](https://www.buymeacoffee.com/freshpex) for tutorials, tips, and deep-dives into web tech!
+I regularly publish web development articles on **Buy Me A Coffee**. Check out [all my articles here](https://www.freshpex.xyz) for tutorials, tips, and deep-dives into web tech!
 
 ## ☕ Support Me
 If you enjoy my work, consider buying me a coffee by clicking 👇
