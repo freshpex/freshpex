@@ -22,7 +22,8 @@ I’m passionate about building modern web applications and sharing knowledge. I
 <!-- - 👨‍💻 All of my projects are available at [website](www.enoch.com) -->
 
 - 📝 I regularly write articles on
- [![Blog](https://img.shields.io/badge/Blog_Post-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.buymeacoffee.com/freshpex)
+ [![Blog](https://img.shields.io/badge/Blog_Post-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://www.freshpex.xyz]
+))
 
 - 📫 How to reach me **epekipoluenoch@gmail.com**
 
@@ -44,7 +45,7 @@ I’m passionate about building modern web applications and sharing knowledge. I
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ## ✍️ Writing & Articles
-I regularly publish web development articles on **Buy Me A Coffee**. Check out [all my articles here](https://www.buymeacoffee.com/freshpex) for tutorials, tips, and deep-dives into web tech!
+I regularly publish web development articles on **Buy Me A Coffee**. Check out [all my articles here](https://www.freshpex.xyz) for tutorials, tips, and deep-dives into web tech!
 
 ## ☕ Support Me
 If you enjoy my work, consider buying me a coffee by clicking 👇
